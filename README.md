@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋,>
+ <h1 align="center">Hi 👋
  <h2 align="center">I'm Nitin Kumar Yadav (DJNS)</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cloudemployee.co.uk/media/1222293/lets-begin.gif?width=880&height=495">
